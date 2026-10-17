@@ -1,5 +1,9 @@
 # StaxRip Next Gen Release
 
+<p align="center">
+  <a href="StaxRipNG.png"><img src="StaxRipNG.png" alt="StaxRip NG" width="320"></a>
+</p>
+
 **Portable Windows application with bundled .NET 10.**
 
 StaxRip Next Gen focuses on hardware video encoding with Intel Quick Sync (QSVEncC), NVIDIA (NVEncC) and AMD (VCEEncC), alongside HDR and Dolby Vision workflows. Software encoding can also be used where supported by the selected encoder within the application.
